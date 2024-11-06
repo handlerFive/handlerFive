@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 I'm currently building an enterprise transportation and payments system with Accenture<br>🤝 I'm looking to collaborate on: React, Android, Linux, and Blockchain projects.<br>📚 I'm learning more about Distributed and High Availability Systems.<br>💬 Ask me about Enterprise applications, Concurrency, Firmware<br>🎉 Fun fact: In 2024, AI chips are revolutionizing tech, allowing devices to run machine learning models on the device itself, boosting privacy and speed in everyday apps.
+👨‍💻 I'm currently building an enterprise transportation and payments system with Accenture<br>🤝 I'm looking to collaborate on: React, Next.js, Android, Linux, and Blockchain projects.<br>📚 I'm learning more about Distributed and High Availability Systems.<br>💬 Ask me about Enterprise applications, Concurrency, Firmware<br>🎉 Fun fact: In 2024, AI chips are revolutionizing tech, allowing devices to run machine learning models on the device itself, boosting privacy and speed in everyday apps.
 
 
 ## 🌐 Socials:
